@@ -28,6 +28,12 @@ Frontend / full-stack developer from Serbia. I build web apps with **JavaScript,
 | [BeerShopAJAX](https://github.com/vanja-veapi/BeerShopAJAX) · [beer-shop-recoded](https://github.com/vanja-veapi/beer-shop-recoded) | Beer shop with AJAX + rewritten version | [▶ Open](https://vanja-veapi.github.io/beer-shop-recoded/) |
 | [bre-prodavnica](https://github.com/vanja-veapi/bre-prodavnica) · [prodavnica-php](https://github.com/vanja-veapi/prodavnica-php) | T-shirt shop in PHP | |
 
+### 🤝 Team projects
+| Project | Description | |
+|---|---|---|
+| **Cinema** · [frontend](https://github.com/reddit-programatori/cinema-frontend) · [backend](https://github.com/reddit-programatori/cinema-backend) | Cinema web app built by a team of developers – TypeScript frontend (my part) + Spring Boot REST API | |
+| **Yugo Travel** · [client](https://yugo-travel-fe-client.vercel.app) · [admin](https://yugo-travel-fe-admin.vercel.app) | Travel agency web app with a customer site and an admin panel (Next.js, Docker) | [▶ Open](https://yugo-travel-fe-client.vercel.app) |
+
 ### 🧰 Small tools
 | Project | Description | |
 |---|---|---|
