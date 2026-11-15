@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="287.5" height="44" viewBox="0 0 287.5 44" role="img" aria-label="More projects">
+  <defs>
+    <linearGradient id="t" x1="0" x2="1"><stop offset="0" stop-color="#7c5cff"/><stop offset=".6" stop-color="#e0459f"/><stop offset="1" stop-color="#ff8a3d"/></linearGradient>
+    
+  <linearGradient id="gloss" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#fff" stop-opacity=".34"/>
+    <stop offset=".5" stop-color="#fff" stop-opacity=".03"/>
+    <stop offset="1" stop-color="#000" stop-opacity=".26"/>
+  </linearGradient>
+  </defs>
+  <g ><rect x="2" y="8" width="13" height="13" rx="3.12" fill="#8E6BFF"/><rect x="2" y="8" width="13" height="13" rx="3.12" fill="url(#gloss)"/><rect x="4.08" y="9.3" width="8.84" height="2.34" rx="1.17" fill="#fff" fill-opacity=".34"/></g><g ><rect x="17" y="8" width="13" height="13" rx="3.12" fill="#FF6AD5"/><rect x="17" y="8" width="13" height="13" rx="3.12" fill="url(#gloss)"/><rect x="19.08" y="9.3" width="8.84" height="2.34" rx="1.17" fill="#fff" fill-opacity=".34"/></g><g ><rect x="2" y="23" width="13" height="13" rx="3.12" fill="#33B9FF"/><rect x="2" y="23" width="13" height="13" rx="3.12" fill="url(#gloss)"/><rect x="4.08" y="24.3" width="8.84" height="2.34" rx="1.17" fill="#fff" fill-opacity=".34"/></g><g ><rect x="17" y="23" width="13" height="13" rx="3.12" fill="#FFB224"/><rect x="17" y="23" width="13" height="13" rx="3.12" fill="url(#gloss)"/><rect x="19.08" y="24.3" width="8.84" height="2.34" rx="1.17" fill="#fff" fill-opacity=".34"/></g>
+  <text x="44" y="32" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="800" fill="url(#t)">More projects</text>
+</svg>
