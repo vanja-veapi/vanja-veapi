@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero.svg" alt="Hi, I'm Vanja – Software Developer" width="100%" />
+<img src="assets/hero.svg" alt="Hi, I'm Vanja – Frontend Engineer" width="100%" />
 
 <br />
 
@@ -13,12 +13,14 @@
 
 <h3><img src="assets/headings/about.svg" alt="About me" /></h3>
 
-✦ **Software developer** from Serbia, graduated from **ICT College** (Visoka ICT)<br />
-✦ For my **final thesis** I built **[Solidarna kuhinja](https://solidarity-kitchen.vercel.app/)**, an app that helps a humanitarian organization organize its internal work, from admins to field workers and cooks<br />
+✦ **Frontend Engineer** from Serbia with **3 years of experience** building web and mobile apps, specializing in **React and TypeScript**<br />
+✦ Hands-on with **Vue.js** and cross-platform mobile apps in **React Native** (iOS + Android)<br />
+✦ Built **e-commerce platforms**, **internal business apps** (React + Laravel) and **CMS solutions** on headless **Strapi (Node.js)**<br />
 ✦ Experienced with **interactive maps**: **deck.gl**, **Google Maps**, **Bing Maps**, **OpenStreetMap** and **Leaflet**<br />
-✦ I build web apps with **React, Next.js and TypeScript**, style them with **Tailwind, styled-components and Bootstrap**, and power content with **Strapi**<br />
+✦ Final thesis at **ICT College**: **[Solidarna kuhinja](https://solidarity-kitchen.vercel.app/)**, an app that helps a humanitarian organization organize its internal work<br />
+✦ Backend experience with **PHP (Laravel)**, **C#** and **Node.js (Strapi)**<br />
 ✦ Currently going deeper into **web accessibility (a11y)**, so the apps I build can be used by everyone ♿<br />
-✦ Also built a **cinema app** and a **travel agency platform** in teams, and I make small **games** in my free time 🎮
+✦ In my free time I make small **games** for web and mobile 🎮
 
 <img src="assets/divider.svg" alt="" width="100%" />
 
@@ -29,25 +31,32 @@
 <sub><b>LANGUAGES</b></sub><br />
 <img src="https://img.shields.io/badge/JavaScript-1f8fd6?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
 <img src="https://img.shields.io/badge/TypeScript-1f8fd6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/C%23-1f8fd6?style=for-the-badge" alt="C#" />
-<img src="https://img.shields.io/badge/PHP-1f8fd6?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
 <img src="https://img.shields.io/badge/HTML5-1f8fd6?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS-1f8fd6?style=for-the-badge&logo=css&logoColor=white" alt="CSS" />
+<img src="https://img.shields.io/badge/CSS3-1f8fd6?style=for-the-badge&logo=css&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/PHP-1f8fd6?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+<img src="https://img.shields.io/badge/C%23-1f8fd6?style=for-the-badge" alt="C#" />
 <br /><br />
-<sub><b>FRONTEND</b></sub><br />
+<sub><b>FRONTEND & MOBILE</b></sub><br />
 <img src="https://img.shields.io/badge/React-7c5cff?style=for-the-badge&logo=react&logoColor=white" alt="React" />
 <img src="https://img.shields.io/badge/Next.js-7c5cff?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/Vue.js-7c5cff?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
 <img src="https://img.shields.io/badge/React_Native-7c5cff?style=for-the-badge&logo=react&logoColor=white" alt="React Native" />
 <img src="https://img.shields.io/badge/Expo-7c5cff?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
+<img src="https://img.shields.io/badge/jQuery-7c5cff?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
+<img src="https://img.shields.io/badge/AJAX-7c5cff?style=for-the-badge" alt="AJAX" />
 <img src="https://img.shields.io/badge/Vite-7c5cff?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
 <br /><br />
-<sub><b>STYLING</b></sub><br />
+<sub><b>STYLING & UI</b></sub><br />
 <img src="https://img.shields.io/badge/Tailwind_CSS-d9439f?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
 <img src="https://img.shields.io/badge/styled--components-d9439f?style=for-the-badge&logo=styledcomponents&logoColor=white" alt="styled-components" />
 <img src="https://img.shields.io/badge/Bootstrap-d9439f?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+<img src="https://img.shields.io/badge/NextUI-d9439f?style=for-the-badge" alt="NextUI" />
+<img src="https://img.shields.io/badge/Webflow-d9439f?style=for-the-badge&logo=webflow&logoColor=white" alt="Webflow" />
 <br /><br />
 <sub><b>BACKEND & CMS</b></sub><br />
+<img src="https://img.shields.io/badge/Node.js-1f9d5c?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
 <img src="https://img.shields.io/badge/Strapi-1f9d5c?style=for-the-badge&logo=strapi&logoColor=white" alt="Strapi" />
+<img src="https://img.shields.io/badge/Laravel-1f9d5c?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
 <img src="https://img.shields.io/badge/.NET-1f9d5c?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
 <br /><br />
 <sub><b>MAPS</b></sub><br />
@@ -57,10 +66,13 @@
 <img src="https://img.shields.io/badge/OpenStreetMap-d97a00?style=for-the-badge&logo=openstreetmap&logoColor=white" alt="OpenStreetMap" />
 <img src="https://img.shields.io/badge/Leaflet-d97a00?style=for-the-badge&logo=leaflet&logoColor=white" alt="Leaflet" />
 <br /><br />
-<sub><b>TOOLS</b></sub><br />
-<img src="https://img.shields.io/badge/Capacitor-149e90?style=for-the-badge&logo=capacitor&logoColor=white" alt="Capacitor" />
-<img src="https://img.shields.io/badge/Vercel-149e90?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+<sub><b>TOOLS & DESIGN</b></sub><br />
 <img src="https://img.shields.io/badge/Git-149e90?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/Jira-149e90?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+<img src="https://img.shields.io/badge/Figma-149e90?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+<img src="https://img.shields.io/badge/Photoshop-149e90?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop" />
+<img src="https://img.shields.io/badge/Vercel-149e90?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+<img src="https://img.shields.io/badge/Capacitor-149e90?style=for-the-badge&logo=capacitor&logoColor=white" alt="Capacitor" />
 <br /><br />
 
 </div>
