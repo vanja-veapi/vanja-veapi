@@ -19,10 +19,10 @@ Frontend / full-stack developer from Serbia. I build web apps with **JavaScript,
 ### 🌐 Web apps
 | Project | Description | |
 |---|---|---|
-| [nextjs-dashboard](https://github.com/vanja-veapi/nextjs-dashboard) | Dashboard app from the Next.js App Router course | |
+| [nextjs-dashboard](https://github.com/vanja-veapi/nextjs-dashboard) | Dashboard app from the Next.js App Router course | [▶ Open](https://nextjs-dashboard-phi-ten-xry59tb6da.vercel.app) |
 | [CameraShop](https://github.com/vanja-veapi/CameraShop) | Camera web shop (C# / .NET) | |
 | [react-hr-app](https://github.com/vanja-veapi/react-hr-app) | HR management app in React | |
-| [q-project-info](https://github.com/vanja-veapi/q-project-info) | Project info app (React) | |
+| [q-project-info](https://github.com/vanja-veapi/q-project-info) | Project info app (React) | [▶ Open](https://q-project-info.vercel.app) |
 | [photo-store](https://github.com/vanja-veapi/photo-store) | E-commerce project for university | [▶ Open](https://vanja-veapi.github.io/photo-store/) |
 | [youtube-api](https://github.com/vanja-veapi/youtube-api) | Video browser using the YouTube API | [▶ Open](https://vanja-veapi.github.io/youtube-api/) |
 | [BeerShopAJAX](https://github.com/vanja-veapi/BeerShopAJAX) · [beer-shop-recoded](https://github.com/vanja-veapi/beer-shop-recoded) | Beer shop with AJAX + rewritten version | [▶ Open](https://vanja-veapi.github.io/beer-shop-recoded/) |
