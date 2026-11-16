@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero.svg" alt="Hi, I'm Vanja – Frontend Engineer" width="100%" />
+<img src="assets/hero.svg" alt="Hi, I'm Vanja – Software Engineer" width="100%" />
 
 <br />
 
@@ -13,7 +13,7 @@
 
 <h3><img src="assets/headings/about.svg" alt="About me" /></h3>
 
-✦ **Frontend Engineer** from Serbia with **5 years of experience** building web and mobile apps, specializing in **React and TypeScript**<br />
+✦ **Software Engineer** from Serbia with **5 years of experience** building web and mobile apps, specializing in **React and TypeScript**<br />
 ✦ Hands-on with **Vue.js** and cross-platform mobile apps in **React Native** (iOS + Android)<br />
 ✦ Built **e-commerce platforms**, **internal business apps** (React + Laravel) and **CMS solutions** on headless **Strapi (Node.js)**<br />
 ✦ Experienced with **interactive maps**: **deck.gl**, **Google Maps**, **Bing Maps**, **OpenStreetMap** and **Leaflet**<br />
